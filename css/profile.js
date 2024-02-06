@@ -1,5 +1,5 @@
   let me = new Typed(".typing", {
-    strings:["", "Web developer", "Web Deginer", "Content Writer"],
+    strings:[ "Programmer", "Student"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
